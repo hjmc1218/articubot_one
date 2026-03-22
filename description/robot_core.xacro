@@ -18,7 +18,7 @@
         <color rgba="0 0 0 1"/>
     </material>
 
-    
+
     <link name="base_link">
 
     </link>
@@ -38,5 +38,6 @@
             <material name="white"/>
         </visual>
     </link>
-
+    
+    
 </robot>
